@@ -581,6 +581,174 @@ chatsan-replacement-262 = что
 chatsan-word-263 = че
 chatsan-replacement-263 = что
 
+chatsan-word-264 = сорян
+chatsan-replacement-264 = прости
+
+chatsan-word-265 = сорри
+chatsan-replacement-265 = прости
+
+chatsan-word-266 = ауф
+chatsan-replacement-266 = ого
+
+chatsan-word-267 = кек
+chatsan-replacement-267 = хех
+
+chatsan-word-268 = кекаю
+chatsan-replacement-268 = усмехаюсь
+
+chatsan-word-269 = кекает
+chatsan-replacement-269 = усмехается
+
+chatsan-word-270 = але
+chatsan-replacement-270 = эй
+
+chatsan-word-271 = алё
+chatsan-replacement-271 = эй
+
+chatsan-word-272 = ало
+chatsan-replacement-272 = эй
+
+chatsan-word-273 = бро
+chatsan-replacement-273 = братец
+
+chatsan-word-274 = братан
+chatsan-replacement-274 = братец
+
+chatsan-word-275 = деф
+chatsan-replacement-275 = обычный
+
+chatsan-word-276 = дефолт
+chatsan-replacement-276 = обычный
+
+chatsan-word-277 = дефолтный
+chatsan-replacement-277 = обычный
+
+chatsan-word-278 = гоу
+chatsan-replacement-278 = идем
+
+chatsan-word-279 = го
+chatsan-replacement-279 = идем
+
+chatsan-word-280 = стан
+chatsan-replacement-280 = устал
+
+chatsan-word-281 = стана
+chatsan-replacement-281 = устал
+
+chatsan-word-282 = стану
+chatsan-replacement-282 = устал
+
+chatsan-word-283 = шиза
+chatsan-replacement-283 = безумие
+
+chatsan-word-284 = шизы
+chatsan-replacement-284 = безумия
+
+chatsan-word-285 = шизик
+chatsan-replacement-285 = безумец
+
+chatsan-word-286 = шизика
+chatsan-replacement-286 = безумца
+
+chatsan-word-287 = шизики
+chatsan-replacement-287 = безумцы
+
+chatsan-word-288 = шизиков
+chatsan-replacement-288 = безумцев
+
+chatsan-word-289 = вульпочка
+chatsan-replacement-289 = ересь
+
+chatsan-word-290 = вульпочки
+chatsan-replacement-290 = ересь
+
+chatsan-word-291 = баг
+chatsan-replacement-291 = колдовство
+
+chatsan-word-292 = бага
+chatsan-replacement-292 = колдовство
+
+chatsan-word-293 = баги
+chatsan-replacement-293 = колдовство
+
+chatsan-word-294 = багов
+chatsan-replacement-294 = колдовство
+
+chatsan-word-295 = танк
+chatsan-replacement-295 = здоровенный
+
+chatsan-word-296 = танка
+chatsan-replacement-296 = здоровенного
+
+chatsan-word-297 = танки
+chatsan-replacement-297 = здоровенные
+
+chatsan-word-298 = танков
+chatsan-replacement-298 = здоровенных
+
+chatsan-word-299 = рандом
+chatsan-replacement-299 = по воле бога
+
+chatsan-word-300 = рандомный
+chatsan-replacement-300 = по воле бога
+
+chatsan-word-301 = рандома
+chatsan-replacement-301 = по воле бога
+
+chatsan-word-302 = данж
+chatsan-replacement-302 = склеп
+
+chatsan-word-303 = данжа
+chatsan-replacement-303 = склепа
+
+chatsan-word-304 = данжи
+chatsan-replacement-304 = склепы
+
+chatsan-word-305 = соси
+chatsan-replacement-305 = пади низ
+
+chatsan-word-306 = сосет
+chatsan-replacement-306 = не старается
+
+chatsan-word-307 = сосал
+chatsan-replacement-307 = ошибся
+
+chatsan-word-308 = абоба
+chatsan-replacement-308 = я остолыбень
+
+chatsan-word-309 = абобы
+chatsan-replacement-309 = я остолыбень
+
+chatsan-word-310 = лаги
+chatsan-replacement-310 = задумался
+
+chatsan-word-311 = лагает
+chatsan-replacement-311 = не хорошо мне
+
+chatsan-word-312 = лагаю
+chatsan-replacement-312 = не хорошо мне
+
+chatsan-word-313 = лаг
+chatsan-replacement-313 = задумался
+
+chatsan-word-314 = лага
+chatsan-replacement-314 = задумался
+
+chatsan-word-315 = шарю
+chatsan-replacement-315 = понимаю
+
+chatsan-word-316 = шарит
+chatsan-replacement-316 = понимает
+
+chatsan-word-317 = шаришь
+chatsan-replacement-317 = понимаешь
+
+chatsan-word-318 = шарил
+chatsan-replacement-318 = понимал
+
+chatsan-word-319 = шарила
+chatsan-replacement-319 = понимала
+
 chatsan-word-264 = танк
 chatsan-replacement-264 = щитоносец
 
